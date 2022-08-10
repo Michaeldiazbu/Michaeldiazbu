@@ -1,0 +1,18 @@
+Pkg install wget
+
+Pkg install openssh
+
+Pkg install php
+
+Pkg install curl
+
+Git clone
+Https://github.com/termuxhackz/wifi-hacker
+
+CD wifi-hacker
+
+Chomd +x*
+
+ls
+
+Bash wifi-hacker.sh
